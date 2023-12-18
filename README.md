@@ -1,8 +1,8 @@
 ### Olá Renato Diniz aqui, animado nessa nova jornada!✌️
 <div>
   <a href="hhtps://github.com/renatodinizz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatodinizz&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodinizz&theme=chartreuse-dark&layout=compact&langs_count=16"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renatodinizz&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodinizz&theme=chartreuse-dark&layout=compact&langs_count=16"/>
 </div>
 
 <div style="display: inline_block"><br>
