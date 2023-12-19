@@ -1,4 +1,4 @@
-### Olá Renato Diniz aqui, animado nessa nova jornada!✌️
+### Olá Renato Diniz aqui, e estou animado nessa nova jornada!✌️
 <div>
   <a href="hhtps://github.com/renatodinizz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renatodinizz&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/>
